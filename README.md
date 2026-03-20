@@ -28,6 +28,8 @@ pip install -r requirements.txt
 ```
 ### Para ejecutar 
 
-**streamlit run multimodal_agent.py**
+streamlit run multimodal_agent.py
 
-
+```bash
+streamlit run multimodal_agent.py
+```
